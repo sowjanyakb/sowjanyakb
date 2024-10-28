@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sowjanyakb
-- 👀 I’m interested in ...
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Data visualization
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sowjanyakb22@gmail.com
